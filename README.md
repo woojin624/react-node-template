@@ -1,7 +1,12 @@
 # 리액트와 노드Js Express 연동 템플릿입니다. ✨
 
+프론트엔드 개발을 하면서 리액트를 써서 만드는 경우가 많았는데
+이 경우 create-react-app을 써서 만들면 바벨과 웹팩이 세팅된 상태로 프로젝트를 만들 수 있었습니다.
+
+그런데 백엔드 API를 만들기 위해 노드Js와 함께 개발을 할 경우 초반에 세팅해야 하는 게 몇가지 있는데 매번 세팅하는 것도 귀찮고 필요할 때마다 바로 쓰고자 템플릿으로 만들려고 합니다.
+
 **제작방법입니다.**
 
-리액트 + 노드Js Express 템플릿 만들기 [블로그-바로가기](https://velog.io/@woojin/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%85%B8%EB%93%9CJs-Express-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A7%8C%EB%93%A4%EA%B8%B0#--%EC%84%9C%EB%B2%84-%EC%84%B8%ED%8C%85).
+리액트 + 노드Js Express 템플릿 만들기 [블로그-바로가기-링크](https://velog.io/@woojin/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%85%B8%EB%93%9CJs-Express-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A7%8C%EB%93%A4%EA%B8%B0#--%EC%84%9C%EB%B2%84-%EC%84%B8%ED%8C%85).
 
 해당 블로그에 템플릿 제작 과정을 올려두었습니다.
